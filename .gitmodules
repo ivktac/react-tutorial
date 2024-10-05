@@ -1,0 +1,9 @@
+[submodule "react-facts"]
+	path = react-facts
+	url = https://github.com/ivktac/react-facts
+[submodule "business-cards"]
+	path = business-cards
+	url = https://github.com/ivktac/business-cards
+[submodule "aribnb-main-page"]
+	path = aribnb-main-page
+	url = https://github.com/ivktac/aribnb-main-page
