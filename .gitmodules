@@ -10,3 +10,6 @@
 [submodule "travel-journal"]
 	path = travel-journal
 	url = git@github.com:ivktac/travel-journal.git
+[submodule "meme-generator"]
+	path = meme-generator
+	url = git@github.com:ivktac/meme-generator.git
