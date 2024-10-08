@@ -7,3 +7,6 @@
 [submodule "aribnb-main-page"]
 	path = aribnb-main-page
 	url = https://github.com/ivktac/aribnb-main-page
+[submodule "travel-journal"]
+	path = travel-journal
+	url = git@github.com:ivktac/travel-journal.git
